@@ -1,1 +1,1 @@
-**chessLEMONS** - Linear ELO Models On Natural Stats 🍋
+**chessLEMONS** - Linear ELO-Estimating Models: Open, Natural, Simple 🍋
